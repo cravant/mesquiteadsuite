@@ -1,1 +1,13 @@
-
+{
+  "name": "discord-ad-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
